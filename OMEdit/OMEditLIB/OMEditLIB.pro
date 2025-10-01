@@ -41,6 +41,7 @@ TRANSLATIONS = Resources/nls/OMEdit_de.ts \
   Resources/nls/OMEdit_fr.ts \
   Resources/nls/OMEdit_it.ts \
   Resources/nls/OMEdit_ja.ts \
+  Resources/nls/OMEdit_pt_PT.ts \
   Resources/nls/OMEdit_ro.ts \
   Resources/nls/OMEdit_ru.ts \
   Resources/nls/OMEdit_sv.ts \
